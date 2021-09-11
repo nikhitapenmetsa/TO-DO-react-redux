@@ -1,0 +1,21 @@
+.la2{
+    border: solid;
+    border-color: black;
+    text-align: center;
+    padding:50px;
+    margin-left: 100px;
+    width:500px;
+    height:220px;
+    border-radius: 50px;
+    background-image: url('wood-591631_1280.jpg');
+    color:white;
+    }
+
+.la5{
+    padding:10px;
+}
+button{
+    margin-left: 20px;
+}
+    
+    

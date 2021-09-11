@@ -1,0 +1,14 @@
+.la1{
+    border: solid;
+    border-color: black;
+    text-align: center;
+    padding:50px;
+    width:500px;
+    margin-left: 100px;
+    background-image: url('wood-591631_1280.jpg');
+    border-radius: 50px;
+    }
+    
+    button:hover{
+      background-color:blue
+    }
